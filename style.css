@@ -499,3 +499,8 @@ Contactarea */
 	text-align: center;
 	text-decoration: underline;
 }
+@media  screen and (max-width:1000px){
+	#header, #namearea, #admin, #staff, #student, .box{
+		width:100%;
+	}
+}
